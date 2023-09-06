@@ -202,7 +202,7 @@ Slider container .slider {
 }
 
 #eventBord {
-  max-width: 70%;
+  max-width: 100%;
   border: 5px black;
   /* background-color: ;*/
   background: url(./Pic/tringa.jpg), url(texture2.jpg) black;
